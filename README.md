@@ -1,4 +1,4 @@
-# Baseball Practice Attendance Tracker
+## Baseball Practice Attendance Tracker
 
 A simple and efficient tool for tracking player attendance at baseball practice.
 
